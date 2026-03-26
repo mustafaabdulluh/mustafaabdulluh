@@ -12,4 +12,4 @@ My experience includes:
 
 I enjoy turning complex problems into simple, scalable systems that deliver real business value.
 
-If you're building something ambitious or need help scaling your product, feel free to reach out.
+If you're building something ambitious or need help scaling your product, [feel free to reach out](https://www.linkedin.com/in/mustafaabdulluh).
